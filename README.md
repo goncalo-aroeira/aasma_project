@@ -1,6 +1,18 @@
 # AAMS Beehive Simulation
 
-This project is a simulation of n-beehives environment for the AAMAS (Autonomous Agents and Multi-Agent Systems) course.
+This project implements a multiagent system to simulate bee colony foraging behavior, developed as part of the Autonomous Agents and Multiagent Systems (AASMA) course at Instituto Superior Técnico. The goal is to explore the interactions between bee colonies, food sources, and their environment, providing insights into collective foraging behaviors and survival strategies.
+
+Using a decentralized approach, each bee agent makes decisions based on local information and simple rules, leading to emergent colony-wide behaviors. The simulation models real-world ecological challenges, such as food scarcity, competition, and predation, by incorporating different bee types, queen strategies, and predator threats (wasps).
+
+Key Features:
+1. Decentralized multiagent system with autonomous decision-making.
+2. Foraging and resource management, with realistic food depletion and regrowth.
+3. Colony survival dynamics, including birth rates, population control, and strategic hive management.
+4. Multiple bee strategies, such as greedy, social, and respectful behaviors.
+5. Predation and defense mechanics, introducing wasps as external threats.
+6. Extensive experimentation and performance analysis, with different environmental setups.
+
+Demo Video: https://youtu.be/QQ6ufTtMS0k 
 
 ## Installation
 
